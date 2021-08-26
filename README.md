@@ -1,5 +1,23 @@
 
-<head><meta name="google-site-verification" content="I0ngRA3QOVYeQ2bC37aGOsHNapITmWbGmpxpa9fd5lQ" /></head>
+<head><meta name="google-site-verification" content="I0ngRA3QOVYeQ2bC37aGOsHNapITmWbGmpxpa9fd5lQ" />
+
+</head>
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://trthnhan100197.github.io/nhan1000197.github.io/</loc>
+  <lastmod>2021-08-17T04:09:08+00:00</lastmod>
+</url>
+
+
+</urlset>
 <meta name="google-site-verification" content="I0ngRA3QOVYeQ2bC37aGOsHNapITmWbGmpxpa9fd5lQ" />
 
 <h1>Demo google search console and google analytics </h1>
